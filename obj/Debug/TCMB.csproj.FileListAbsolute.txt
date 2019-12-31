@@ -1,0 +1,10 @@
+c:\users\atilim2\documents\visual studio 2013\Projects\TCMB\TCMB\bin\Debug\TCMB.exe.config
+c:\users\atilim2\documents\visual studio 2013\Projects\TCMB\TCMB\bin\Debug\TCMB.exe
+c:\users\atilim2\documents\visual studio 2013\Projects\TCMB\TCMB\bin\Debug\TCMB.pdb
+c:\users\atilim2\documents\visual studio 2013\Projects\TCMB\TCMB\obj\Debug\TCMB.csprojResolveAssemblyReference.cache
+c:\users\atilim2\documents\visual studio 2013\Projects\TCMB\TCMB\obj\Debug\TCMB.Form1.resources
+c:\users\atilim2\documents\visual studio 2013\Projects\TCMB\TCMB\obj\Debug\TCMB.Properties.Resources.resources
+c:\users\atilim2\documents\visual studio 2013\Projects\TCMB\TCMB\obj\Debug\TCMB.csproj.GenerateResource.Cache
+c:\users\atilim2\documents\visual studio 2013\Projects\TCMB\TCMB\obj\Debug\TCMB.exe.licenses
+c:\users\atilim2\documents\visual studio 2013\Projects\TCMB\TCMB\obj\Debug\TCMB.exe
+c:\users\atilim2\documents\visual studio 2013\Projects\TCMB\TCMB\obj\Debug\TCMB.pdb
